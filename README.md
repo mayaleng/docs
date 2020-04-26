@@ -1,5 +1,5 @@
 ---
-description: A Mayan languages platform
+description: A Mayan languages platform.
 ---
 
 # MayaLeng
