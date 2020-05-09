@@ -1,4 +1,4 @@
 # Table of contents
 
-* [MayaLeng](README.md)
+* [Initial page](README.md)
 
